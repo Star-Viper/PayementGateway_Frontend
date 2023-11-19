@@ -24,6 +24,12 @@ const App = () => {
         {/* <Navigate replace to="/" /> */}
       </Routes>
 
+<div>
+  <h3>Swift. Simple. Secure</h3>
+  <h1>Grow your revenue with Digital Payment Solution </h1>
+  <h4>We help bussinesses to grow quickly by accepting the payment method that your costumers prefer across flat and digital currencies</h4>
+</div>
+
     </>
   )
 }
