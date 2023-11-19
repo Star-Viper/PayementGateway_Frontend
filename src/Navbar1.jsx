@@ -45,11 +45,11 @@ const Navbar1 = () => {
               </li>
               <li className="nav-item dropdown">
                 <NavLink 
-                // className="nav-link dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                 className="nav-link dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"
                 >
                   Industries
                 </NavLink>
-                {/* <ul className="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
                     <NavLink className="dropdown-item" to="#">
                       Automotive
@@ -75,7 +75,7 @@ const Navbar1 = () => {
                       Professional Services
                     </NavLink>
                   </li>
-                </ul> */}
+                </ul>
               </li>
               <li className="nav-item dropdown">
                 <NavLink className="nav-link dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
