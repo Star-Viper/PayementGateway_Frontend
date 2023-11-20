@@ -8,6 +8,7 @@ import Products from './Products';
 import Contact from './Contact';
 import Industries from './Industries';
 import Resources from './Resources';
+import './App.css'; 
 import { Routes, Route } from 'react-router-dom';
 
 const App = () => {

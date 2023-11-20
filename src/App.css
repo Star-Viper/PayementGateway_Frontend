@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('C:\Users\LENOVO\Desktop\vreact1\src\images\background'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+  background-size: cover;
+  background-position: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
